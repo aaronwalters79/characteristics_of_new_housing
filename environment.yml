@@ -1,0 +1,11 @@
+name: characteristics_of_new_housing
+channels:
+- conda
+- defaults
+dependencies:
+- python=3
+- pandas
+- requests
+- thrift
+- jupyter
+- xlrd
