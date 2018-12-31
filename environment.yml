@@ -1,6 +1,6 @@
 name: characteristics_of_new_housing
 channels:
-- conda
+- conda-forge
 - defaults
 dependencies:
 - python=3
@@ -9,3 +9,5 @@ dependencies:
 - thrift
 - jupyter
 - xlrd
+- numpy
+- feather-format
